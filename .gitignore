@@ -1,0 +1,6 @@
+# Ignorar tudo
+*
+
+# Exceções (apenas o .gitignore e o script v5_16)
+!.gitignore
+!dashboard_financas_v5_16.py
